@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/single-price-grid/static/css/main.f822e78d.chunk.css",
+    "main.js": "/single-price-grid/static/js/main.5a9cee72.chunk.js",
+    "main.js.map": "/single-price-grid/static/js/main.5a9cee72.chunk.js.map",
+    "runtime-main.js": "/single-price-grid/static/js/runtime-main.1111bd47.js",
+    "runtime-main.js.map": "/single-price-grid/static/js/runtime-main.1111bd47.js.map",
+    "static/js/2.df342aca.chunk.js": "/single-price-grid/static/js/2.df342aca.chunk.js",
+    "static/js/2.df342aca.chunk.js.map": "/single-price-grid/static/js/2.df342aca.chunk.js.map",
+    "static/js/3.5ed6af93.chunk.js": "/single-price-grid/static/js/3.5ed6af93.chunk.js",
+    "static/js/3.5ed6af93.chunk.js.map": "/single-price-grid/static/js/3.5ed6af93.chunk.js.map",
+    "index.html": "/single-price-grid/index.html",
+    "static/css/main.f822e78d.chunk.css.map": "/single-price-grid/static/css/main.f822e78d.chunk.css.map",
+    "static/js/2.df342aca.chunk.js.LICENSE.txt": "/single-price-grid/static/js/2.df342aca.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1111bd47.js",
+    "static/js/2.df342aca.chunk.js",
+    "static/css/main.f822e78d.chunk.css",
+    "static/js/main.5a9cee72.chunk.js"
+  ]
+}
